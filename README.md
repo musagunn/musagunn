@@ -17,10 +17,10 @@ Oyun geliştirme, masaüstü uygulamaları ve sistem otomasyonları konularında
 </p>
 
 ### 📈 GitHub İstatistiklerim
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=musagunn&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musagunn&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
-</p>
+
+![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=musagunn&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musagunn&layout=compact&theme=dark)
 
 ### 📫 Bana Ulaşın
 <p align="left">
