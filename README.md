@@ -16,12 +16,6 @@ Oyun geliştirme, masaüstü uygulamaları ve sistem otomasyonları konularında
   </a>
 </p>
 
-### 📈 GitHub İstatistiklerim
-
-![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=musagunn&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musagunn&layout=compact&theme=dark)
-
 ### 📫 Bana Ulaşın
 <p align="left">
   <a href="https://linkedin.com/in/musa-gün-217a00361">
